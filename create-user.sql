@@ -1,0 +1,2 @@
+CREATE USER c##local IDENTIFIED BY local;
+GRANT CONNECT, RESOURCE, DBA TO c##local;
